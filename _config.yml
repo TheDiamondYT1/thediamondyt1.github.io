@@ -1,0 +1,18 @@
+timezone: Europe/London
+
+title: "TheDiamondYT's Website"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+ 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page

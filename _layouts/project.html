@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div id="coverimage"></div>
+
+<a id="download" class="btn-floating btn-large waves-effect waves-light red download-fab"><i class="material-icons">file_download</i></a>
+
+<div class="content-card">
+    <div class="icontitle">
+        <img src="../img/google.png" class="appicon">
+        <div class="title-container">
+            <span class="text-title">{{ page.title }}</span>
+        </div>
+    </div>
+    <br><br><br>
+    <span class="textdesc">
+        {{ content }}
+    </span>
+    <br><br>
+    <a id="download" class="waves-effect waves-light btn-large blue" style="margin-left: 41.5%; margin-top: 70px;">Download</a>
+</div>
+
+<div class="content-card" style="margin-top: 7%!important;">
+    <span class="text-subtitle">Details</span>
+    <br><br>
+    {% if page.version %}
+    <div class="detail-item"><i class="fa fa-info-circle">&nbsp;<span>Version {{ page.version }}</span></i></div>
+    {% endif %}
+    <div class="detail-item"><i class="fa fa-envelope">&nbsp;<span>Source: {{ page.source }}</span></i></div>
+</div>

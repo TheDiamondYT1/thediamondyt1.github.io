@@ -1,2 +1,2 @@
-# thediamondyt1.github.io
-Website
+# thediamondyt.tk
+
