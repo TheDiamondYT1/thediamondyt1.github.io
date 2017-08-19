@@ -3,11 +3,14 @@ layout: page
 title: My Projects
 permalink: /portfolio/
 ---
+I am a 14 year old gamer and developer from Jersey, Channel Islands. 
+
+---
+
 ## Minecraft
 
 All my experience with Minecraft related things
 
-<br>
 
 ### PocketMine-MP Plugins
 
@@ -19,7 +22,6 @@ All my experience with Minecraft related things
 * NoRegen  
 * Feedback  
 
-<br>
 
 ### Nukkit Plugins
 
