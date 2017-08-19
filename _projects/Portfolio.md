@@ -1,4 +1,5 @@
 ---
+layout: page
 title: My Projects
 permalink: /portfolio/
 ---
@@ -10,8 +11,8 @@ All my experience with Minecraft related things
 
 ### PocketMine-MP Plugins
 
-* [PocketFactions](/plugins/PocketFactions/) 
-* [BlockPerms](/plugins/BlockPerms)  
+* [PocketFactions](/projects/PocketFactions/) 
+* [BlockPerms](/projects/BlockPerms)  
 * JellyLegs  
 * DeathView  
 * TitleManager  
@@ -22,7 +23,7 @@ All my experience with Minecraft related things
 
 ### Nukkit Plugins
 
-* [NukkitEssentials](/plugins/NukkitEssentials/)  
+* [NukkitEssentials](/projects/NukkitEssentials/)  
 
 ---
 
