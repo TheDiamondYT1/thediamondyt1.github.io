@@ -15,7 +15,9 @@ All my experience with Minecraft related things
 ### PocketMine-MP Plugins
 
 * [PocketFactions](/projects/PocketFactions/) 
-* [BlockPerms](/projects/BlockPerms)  
+* [BlockPerms](/projects/BlockPerms/)  
+* [ServerManager](/projects/ServerManager/)  
+* [StackerPE](/projects/StackerPE/)  
 * JellyLegs  
 * DeathView  
 * TitleManager  
