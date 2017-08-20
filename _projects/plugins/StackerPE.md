@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: StackerPE
 permalink: /projects/StackerPE/
 
