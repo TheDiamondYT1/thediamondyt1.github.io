@@ -10,7 +10,7 @@ I know how to code in PHP, Java, C#, some basic C++ and i'd like to think i `con
 
 ---
 
-## Minecraft
+### Minecraft
 All my experience with Minecraft related things.
   
 #### Development Teams
@@ -18,14 +18,14 @@ All my experience with Minecraft related things.
 * [BlockHorizons](/teams/BlockHorizons/)  
 * [SparkDevs](/teams/SparkDevs/)  
 
-
+<br>
 #### MCPE Websites
 
 * [pe.thediamondyt.tk](http://pe.thediamondyt.tk)  
 * [peapi.thediamondyt.tk](http://peapi.thediamondyt.tk)  
 * [modding.pe.thediamondyt.tk](http://modding.pe.thediamondyt.tk)  
 
-
+<br>
 #### PocketMine-MP Plugins
 
 * [PocketFactions](/projects/PocketFactions/) 
@@ -40,13 +40,13 @@ All my experience with Minecraft related things.
 * ItemRename  
 * SkyGrid
 
-
+<br>
 #### Nukkit Plugins
 
 * [NukkitEssentials](/projects/NukkitEssentials/)  
 * JellyLegs  
 
-
+<br>
 #### Mods
 
 ##### Native
@@ -55,7 +55,7 @@ All my experience with Minecraft related things.
 
 ---
 
-## Windows Applications
+### Windows Applications
 Programs for the Windows operating system by Microsoft.
   
 * [USBList](/projects/USBList/)  
@@ -63,14 +63,14 @@ Programs for the Windows operating system by Microsoft.
 
 ---
 
-## Scripts
+### Scripts
 Bash and Windows scripts that i have made.
 
 * [termux-buildapk](https://github.com/TheDiamondYT1/termux-buildapk)  
 
 ---
 
-## Android Apps
+### Android Apps
 
 * SparkLauncher (in development)  
 * iMobileConfig (needs rewrite)  
