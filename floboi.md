@@ -1,3 +1,6 @@
+---
+layout: page
+---
 <center>
 # Set me up
 <br><br>
