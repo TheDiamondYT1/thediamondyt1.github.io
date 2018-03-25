@@ -4,7 +4,7 @@ title: My Projects
 permalink: /portfolio/
 ---
 # Portfolio
-I am a 14 year old gamer and developer from Jersey, Channel Islands. 
+I am a 15 year old gamer and developer from Jersey, Channel Islands. 
 
 I know how to code in PHP, Java, C#, some basic C++ and i'd like to think i `console.log('know some JavaScript')`.
 
